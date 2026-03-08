@@ -1,0 +1,7 @@
+node_modules/
+main.js
+*.js.map
+
+# Keep these:
+!esbuild.config.mjs
+!version-bump.mjs
