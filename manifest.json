@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-note-gallery",
+  "name": "Note Gallery",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "A rich gallery view for your notes with covers, ratings, filtering, multilingual support, and pagination.",
+  "author": "Your Name",
+  "authorUrl": "https://github.com/yourusername",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
